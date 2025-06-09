@@ -1,0 +1,3 @@
+GPU 是否可用： True
+可用 GPU 數量： 1
+GPU 名稱： NVIDIA RTX A5000
