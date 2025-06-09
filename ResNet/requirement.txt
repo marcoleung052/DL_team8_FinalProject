@@ -336,3 +336,7 @@ yarl==1.20.0
 ypy-websocket==0.8.4
 zict @ file:///home/conda/feedstock_root/build_artifacts/zict_1651156074437/work
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1665306627898/work
+
+GPU 是否可用： True
+可用 GPU 數量： 1
+GPU 名稱： NVIDIA RTX A5000
