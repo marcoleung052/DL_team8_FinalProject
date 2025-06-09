@@ -178,3 +178,7 @@ msgpack @ file:///home/conda/feedstock_root/build_artifacts/msgpack-python_16542
 multidict==6.4.3
 munkres==1.1.4
 narwhals @ file:///home/conda/feedstock_root/build_artifa
+
+GPU 是否可用： True
+可用 GPU 數量： 1
+GPU 名稱： NVIDIA RTX A5000
